@@ -45,11 +45,11 @@ body{
 .output .previous{
     color: rgba(255, 255, 255, 0.753);
     font-size: 1.5rem;
-    border: white solid 2px;
+    
 }
 
 .output .current{
     color: rgb(255, 255, 255);
     font-size: 1.5rem;
-    border: white solid 2px;
+   
 }
